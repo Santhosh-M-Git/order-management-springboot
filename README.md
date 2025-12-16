@@ -19,11 +19,11 @@ REST-based Order Management System using Spring Boot
 Oracle SQL
 
 ## API Endpoints
-POST   /api/orders
-GET    /api/orders
-GET    /api/orders/{id}
-PUT    /api/orders/{id}
-DELETE /api/orders/{id}
+- POST   /api/orders
+- GET    /api/orders
+- GET    /api/orders/{id}
+- PUT    /api/orders/{id}
+- DELETE /api/orders/{id}
 
 ## How to Run
 1. Clone the repository
